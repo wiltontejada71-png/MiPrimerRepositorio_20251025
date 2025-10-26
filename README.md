@@ -5,6 +5,6 @@
 - Ejecutar primeras conexiones con Google Colab
 - Conocer el entorno de Github
 
-  ### Autot y Fecha
+### Autor y Fecha
   * Sabado 25 de Octubre
   * Wilton Tejada
